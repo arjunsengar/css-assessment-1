@@ -1,0 +1,23 @@
+h1{
+    color: red;
+}
+h2{
+    color: orange;
+}
+ol{
+    color: brown;
+}
+ul{
+    color: brown;
+    letter-spacing: 4px;
+}
+p{
+    color:brown
+}
+span{
+    background-color: yellow;
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
